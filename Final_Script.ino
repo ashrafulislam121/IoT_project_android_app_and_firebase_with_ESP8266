@@ -1,5 +1,5 @@
 // #define FIREBASE_HOST "proj-arduino2server-default-rtdb.firebaseio.com"              // the project name address from firebase id
-// #define FIREBASE_AUTH "GvmqSSQEZEzCb0cmqjsF22Babx3E9uIu2ezGlz9g"       // the secret key generated from firebase                            
+// #define FIREBASE_AUTH "GvmqSSQEZEzCb0cmqjsF22Babx3E9uIu2ezGlz9"       // the secret key generated from firebase                            
 
 #include <Arduino.h>
 #if defined(ESP32)
